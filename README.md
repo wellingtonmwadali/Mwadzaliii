@@ -5,3 +5,4 @@ This a personal webpage that states specific and real time attributes.
 ---> Time in milliseconds
 ---> My track in HNGx internship
 ---> Github link to project
+https://mwadaliii.netlify.app/
