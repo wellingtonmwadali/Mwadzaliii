@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b1f4e7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    width: 30vw;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+img {
+    max-width: 200px;
+    border-radius: 45%;
+    margin: 10px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: tomato;
+}
+[data-testid="currentDayOfTheWeek"] {
+    font-weight: bold;
+}
+
+[data-testid="myTrack"] {
+    font-weight: 700;
+}
+
+[data-testid="githubURL"] {
+    background-color: #007BFF;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+
+
+
